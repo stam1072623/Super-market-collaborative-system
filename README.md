@@ -1,4 +1,7 @@
 # Super-market-collaborative-system
+
+This project was developed by me and a fellow student during our Web Programming course.
+
 The aim of this project is to develop a collaborative system for registration, search and evaluation of super-market consumer goods offers between users.
 
 The system allows its registered users to inform others about the availability of products
