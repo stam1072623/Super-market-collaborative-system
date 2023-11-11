@@ -1,0 +1,52 @@
+[
+  {
+    "id":"329bdd842f9f41688a0aa017b74ffde4",
+    "name":"Μπύρες",
+    "category_id":"a8ac6be68b53443bbd93b229e2f9cd34"  
+  },
+  {
+    "id":"3010aca5cbdc401e8dfe1d39320a8d1a",
+    "name":"Αναψυκτικά - Ενεργειακά Ποτά",
+    "category_id":"a8ac6be68b53443bbd93b229e2f9cd34"  
+  },
+  {
+    "id": "4c73d0eccd1e4dde8bb882e436a64ebb",
+    "name": "Τυριά",
+    "category_id": "ee0022e7b1b34eb2b834ea334cda52e7"
+  },
+  {
+    "id": "50e8a35122854b2b9cf0e97356072f94",
+    "name": " Όσπρια ",
+    "category_id": "ee0022e7b1b34eb2b834ea334cda52e7"
+  },
+  {
+    "id":"7e86994327f64e3ca967c09b5803966a",
+    "name":"Βρεφικές τροφές",
+    "category_id":"8016e637b54241f8ad242ed1699bf2da"  
+  },
+  {
+    "id":"e0efaa1776714351a4c17a3a9d412602",
+    "name":"Πάνες",
+    "category_id":"8016e637b54241f8ad242ed1699bf2da"  
+  },
+  {
+    "id": "034941f08ca34f7baaf5932427d7e635",
+    "name": "Χαρτικά",
+    "category_id": "d41744460283406a86f8e4bd5010a66d"
+  },
+  {
+    "id": "e60aca31a37a40db8a83ccf93bd116b1",
+    "name": "Απορρυπαντικά",
+    "category_id": "d41744460283406a86f8e4bd5010a66d"
+  },
+  {
+    "id": "926262c303fe402a8542a5d5cf3ac7eb",
+    "name": "Τροφή Γάτας",
+    "category_id": "662418cbd02e435280148dbb8892782a"
+  },
+  {
+    "id": "0c6e42d52765495dbbd06c189a4fc80f",
+    "name": "Τροφή Σκύλου",
+    "category_id": "662418cbd02e435280148dbb8892782a"
+  }
+]

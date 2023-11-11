@@ -1,0 +1,142 @@
+body {
+
+    background-image: url(https://img.freepik.com/free-photo/shopping-carts-blue-background-with-copy-space_23-2148288225.jpg?w=1380&t=st=1694199254~exp=1694199854~hmac=7eb2904041f39e9a9489872e363205f625b0921b8b3a02c6a7dae1f480a8a087);
+    background-size: 2000px;
+    
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    height: 100vh;
+
+    flex-direction: column;
+  
+
+}
+
+*{
+
+    font-family: "Gill Sans", sans-serif;
+
+}
+
+form {
+
+    width: 800px;
+
+    padding: 15px;
+
+    background: rgba(9,76,220,0.5);;
+
+    border-radius: 20px;
+
+}
+
+h2 {
+
+    text-align: center;
+
+    margin-bottom: 50px;
+
+}
+
+input {
+
+    display: block;
+
+    width: 95%;
+
+    padding: 10px;
+
+    margin: 10px auto;
+
+    border-radius: 10px;
+
+}
+
+label {
+
+    color: #000;
+
+    font-size: 22px;
+
+    padding: 15px;
+   
+
+}
+
+button {
+
+    float: right;
+
+    background: rgb(8, 32, 84);
+
+    padding: 10px 15px;
+
+    color: #fff;
+
+    border-radius: 5px;
+
+    margin-right: 10px;
+
+    border: none;
+
+}
+
+button:hover{
+
+    opacity: .70;
+
+}
+
+.error {
+
+   background: transparent;
+
+   color: #0c0101;
+
+   padding: 10px;
+
+   width: 95%;
+
+   border-radius: 5px;
+
+   margin: 20px auto;
+
+}
+
+h1 {
+
+    text-align: center;
+
+    color: rgb(134, 3, 3);
+
+}
+
+a {
+
+    float: right;
+
+    background: rgb(183, 225, 233);
+
+    padding: 10px 10px;
+
+    color: #000;
+
+    border-radius: 10px;
+
+    margin-right: 10px;
+
+    border: none;
+
+    text-decoration: none;
+
+}
+
+a:hover{
+
+    opacity: .70;
+
+}

@@ -1,0 +1,7 @@
+[out:json][timeout:25];
+// Define the area (e.g., a bounding box)
+{{geocodeArea:πάτρα}}->.searchArea;
+// Query for all shops with a name tag
+node["shop"~"supermarket|convenience"]["name"](area.searchArea);
+// Output the results with geometry information
+out geom;

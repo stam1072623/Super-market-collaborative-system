@@ -1,0 +1,124 @@
+/* Reset some default styles for better consistency */
+body, h1, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Apply a background image or color */
+body {
+    background: url(https://img.freepik.com/free-photo/blue-toned-pack-paper-sheets-with-copy-space_23-2148320442.jpg?w=1380&t=st=1694710525~exp=1694711125~hmac=9e561f1450409fe4c58ab5cefad58ec4d3f5dc87eab5933cdb7e692930461045)no-repeat center center fixed;
+    background-size: cover; /* Ensures the background covers the entire viewport */
+    font-family: Arial, sans-serif; /* Choose an appropriate font-family */
+    color: #333; /* Text color */
+}
+
+/* Style the profile card */
+.profile-card {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+/* Style the profile image if you have one */
+.profile-image {
+    max-width: 100px;
+    border-radius: 50%;
+    margin: 0 auto 20px;
+    /* Add more styling properties like border, box-shadow, etc. */
+}
+
+/* Style the profile information list */
+.profile-info {
+    list-style: none;
+    padding: 0;
+}
+
+.profile-info li {
+    margin: 10px 0;
+    font-size: 18px;
+}
+
+/* Style the navigation menu */
+nav {
+    text-align: center;
+    margin-top: 20px;
+}
+
+nav a {
+    display: inline-block;
+    margin: 10px 20px;
+    padding: 10px 20px;
+    background-color: #007BFF; /* Button background color */
+    color: #fff; /* Button text color */
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+nav a:hover {
+    background-color: #0056b3; /* Hover color */
+}
+
+/* Center align the title and description */
+h1, p {
+    text-align: center;
+}
+
+/* Add media queries for responsive design if needed */
+@media (max-width: 768px) {
+    .profile-card {
+        max-width: 80%;
+    }
+}
+
+.profile-info-container {
+    background-color: rgba(0, 123, 255, 0.8); /* Blue transparent background */
+    border-radius: 50px; /* Circular corners */
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    text-align: left;
+    max-width: 30%; /* Adjust the maximum width as needed */
+    margin: 0 auto; /* Center horizontally */
+    margin-top: 50px; /* Adjust the top margin as needed */
+}
+
+/* Style the user information */
+.profile-info-container h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.profile-info-container ul {
+    list-style: none;
+    padding: 0;
+}
+
+.profile-info-container li {
+    margin: 10px 0;
+    font-size: 18px;
+}
+
+/* Style the navigation menu */
+.navigation-menu {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.navigation-menu a {
+    display: inline-block;
+    margin: 10px 20px;
+    padding: 10px 20px;
+    background-color: #007BFF; /* Button background color */
+    color: #fff; /* Button text color */
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.navigation-menu a:hover {
+    background-color: #0056b3; /* Hover color */
+}
